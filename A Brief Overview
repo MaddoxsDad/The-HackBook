@@ -1,0 +1,51 @@
+
+# History of Malware: Timeline View
+
+## Early Milestones
+- **1982:** **Elk Cloner** – First computer virus on a Mac.
+- **1986:** **Brain** – First PC-based malware and the first "stealth" virus.
+
+## Malware in the 1980s
+- **1980s:** Boot sector and file infectors spread via floppy disks.
+
+## Malware in the 1990s
+- **1990s:** Expansion of networks led to increased malware distribution.
+  - Macro viruses exploited Microsoft Office and spread via email.
+
+### Notable Examples in the 1980s and 1990s
+- **1987:** **Jerusalem** – A DOS virus.
+- **1988:** **Morris Worm** – First malware distributed via the internet.
+- **1991:** **Michelangelo** – Targeted DOS-based systems.
+- **1998:** **CIH** – A Windows 9x virus.
+- **1999:** **Melissa** – A macro virus exploiting email.
+
+## Web 2.0 Era: 2000s
+### Technological Shifts
+- Growth of the internet created fertile ground for malware proliferation.
+- **2007:** Rise of automated SQL injections and website compromises.
+
+#### Significant Attacks in the 2000s
+- **2000:** **ILOVEYOU** – Attacked millions of Windows computers.
+- **2001:**
+  - **Anna Kournikova** – Email worm.
+  - **CodeRed** – Exploited a buffer overflow vulnerability.
+  - **Nimda** – Targeted multiple Windows versions.
+- **2003:** **Slammer** – Caused denial-of-service and slowed internet traffic.
+- **2004:** **MyDoom**, **Bagle**, **Netsky** – The "Email Worm War."
+- **2005:** **Sony rootkit** – A controversial discovery of rootkit malware.
+- **2007:** **MPack** – A crimeware toolkit compromising websites.
+
+## Advancements in Malware Since 2010
+### Exploitation of New Technologies
+- Focus shifted to cryptocurrency exploitation and IoT vulnerabilities.
+
+#### Notable Examples Post-2010
+- **2010:** **Stuxnet** – Aimed at industrial systems.
+- **2011:** **ZeroAccess** – A Trojan targeting Microsoft systems.
+- **2012:** **Shamoon** and **Flame** – Cyber espionage in the energy sector.
+- **2013:** **CryptoLocker** – A pioneering ransomware.
+- **2014:** **Regin** – Advanced espionage and surveillance tool.
+- **2016:** **Locky** and **Mirai** – Conducted large-scale DDoS attacks.
+- **2017:** **WannaCry** and **Petya** – Ransomware incidents that captivated global attention.
+```
+
